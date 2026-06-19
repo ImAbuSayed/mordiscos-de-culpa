@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Mordiscos de culpa
+
+This log tracks the cryptographic history and versioning for the song **Mordiscos de culpa** (mordiscos-de-culpa).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-19T17:02:50.702649 | `v1` | `bc822c1ec964b5480feaafbe3313595ac97292b341c90ba431cc6135c96a268a` | `001a1226943059d282478a5417607dad5d411d1a529feec34955716da4cecbd6` | `2026-06-19_mordiscos-de-culpa-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
