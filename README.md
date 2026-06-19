@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/mordiscos-de-culpa/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Mordiscos de culpa](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/mordiscos-de-culpa/) |
+| **Get License** | [Music Rights & Licensing for Mordiscos de culpa](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/mordiscos-de-culpa/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Mordiscos de culpa, la noche te llama
+> Nena, tú y yo quemando la cama
+> Ese flow de la calle me quita el estrés
+> Me tienes pidiendo tus besos otra vez
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
